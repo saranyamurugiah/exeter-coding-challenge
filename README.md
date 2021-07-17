@@ -77,9 +77,3 @@ void main()
 {
     findAndReplaceInFile();
 }
-How to execute the above code:
-
-Copy the source code from here and paste it in an offline IDE
-Save the program.
-Create a file named “file_search_input.txt” and save it in the folder where you saved the above-copied program.
-Now open the terminal or offline IDE and run the program
